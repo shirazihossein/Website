@@ -1,0 +1,7 @@
+Mar 11 14:56:03 10.71.61.0 u106806861 Connection from 10.71.61.0 port 48054 on 74.208.59.214 port 22
+Mar 11 14:56:05 10.71.61.0 u106806861 Failed publickey for u106806861 from 10.71.61.0 port 48054 ssh2: RSA SHA256:ynlTuecUzLhmg9fGNiDo9Sv5l4sjSjF/dbmN95lUYkE
+Mar 11 14:56:15 10.71.61.0 u106806861 Accepted password for u106806861 from 10.71.61.0 port 48054 ssh2
+Mar 11 15:28:28 10.71.61.0 u106806861 Connection closed by 10.71.61.0 port 48054
+Mar 11 16:16:01 10.71.61.0 u106806861 Connection from 10.71.61.0 port 16990 on 74.208.59.214 port 22
+Mar 11 16:16:01 10.71.61.0 u106806861 Failed publickey for u106806861 from 10.71.61.0 port 16990 ssh2: RSA SHA256:ynlTuecUzLhmg9fGNiDo9Sv5l4sjSjF/dbmN95lUYkE
+Mar 11 16:16:13 10.71.61.0 u106806861 Accepted password for u106806861 from 10.71.61.0 port 16990 ssh2
